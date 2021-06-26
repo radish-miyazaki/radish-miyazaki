@@ -19,6 +19,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radish-miyazaki&layout=compact&langs_count=8&theme=dracula" />
 </a>
 
+## Summary
+[![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
