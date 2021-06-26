@@ -19,7 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radish-miyazaki&layout=compact&langs_count=8&theme=dracula" />
 </a>
 
-## Summary
 
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/0-profile-details.svg)
 
