@@ -26,9 +26,6 @@
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/2-most-commit-language.svg)
 
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/4-productive-time.svg)
-
-
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
