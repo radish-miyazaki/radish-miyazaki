@@ -13,22 +13,7 @@
   </a>
 </p>
 
-## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=radish-miyazaki&layout=compact&count_private=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radish-miyazaki&layout=compact&langs_count=8&theme=dracula" />
-</a>
-
-
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/2-most-commit-language.svg)
-
-## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Languages
+## Languages & Tools
 
 ### Front
 <p>
@@ -91,3 +76,18 @@
   <a href="https://flutter.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>   </a>
 </p>
+
+## Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=radish-miyazaki&layout=compact&count_private=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radish-miyazaki&layout=compact&langs_count=8&theme=dracula" />
+</a>
+
+
+![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/2-most-commit-language.svg)
+
+## Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
