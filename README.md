@@ -41,6 +41,9 @@
   <a href="https://nuxtjs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
   </a> 
+  <a href="https://svelte.dev" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+  </a> 
 </p>  
   
 ### Backend
