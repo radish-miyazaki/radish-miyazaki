@@ -84,12 +84,6 @@
 </p>
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=radish-miyazaki&layout=compact&count_private=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radish-miyazaki&layout=compact&langs_count=8&theme=dracula" />
-</a>
-
-
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
