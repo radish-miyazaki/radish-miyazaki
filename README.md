@@ -1,4 +1,4 @@
-### Hi! I'm Radish, Full Stack Web Enginner👋
+### Hi! I'm Radish, Web Enginner👋
 
 ## SNS
 <p align="left"> 
