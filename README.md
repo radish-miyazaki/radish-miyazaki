@@ -5,9 +5,6 @@
   <a href="https://github.com/radish-miyazaki/radish-miyazaki/">
     <img src="https://komarev.com/ghpvc/?username=radish-miyazaki"/>
   </a>
-  <a href="http://twitter.com/ruby_engineer">
-    <img height="20" src="https://img.shields.io/twitter/follow/ruby_engineer?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/radish-miyazaki">
     <img height="20" src="https://img.shields.io/github/followers/radish-miyazaki?label=follow&logo=github&style=flat" />
   </a>
