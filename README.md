@@ -23,7 +23,7 @@
   <img alt="Blog" src="https://img.shields.io/badge/MY_BLOG-red.svg?&style=for-the-badge&logo=ruby" />
 </a>
 
-## Favorite Programming Languages
+## 🛠️ Favorite Tools
 [![My Skills](https://skillicons.dev/icons?i=clojure,go,haskell,ruby,rust)](https://skillicons.dev)
 
 
