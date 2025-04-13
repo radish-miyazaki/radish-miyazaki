@@ -33,3 +33,6 @@
 
 ## 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Counter
+<img src="https://count.getloli.com/@radish-miyazaki.github?theme=booru-mjg" alt="visitor count" />
