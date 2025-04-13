@@ -2,6 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
 
+## 🧮 Counter
+<img src="https://count.getloli.com/@radish-miyazaki.github?theme=booru-mjg" alt="visitor count" />
+
 ## 💬 Socials
 <a href="https://github.com/radish-miyazaki" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -35,6 +38,3 @@
 
 ## 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🧮 Counter
-<img src="https://count.getloli.com/@radish-miyazaki.github?theme=booru-mjg" alt="visitor count" />
