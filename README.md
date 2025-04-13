@@ -10,7 +10,7 @@
 <a href="https://zenn.dev/yoshiki_hidaka" target="_blank">
   <img alt="Zenn" src="https://img.shields.io/badge/zenn-FFF.svg?&style=for-the-badge&logo=zenn" />
 </a>
-<a href="https://scrapbox.io/radish-miyazaki/" target="_blank">
+<a href="https://scrapbox.io/entropy/" target="_blank">
   <img alt="Scrapbox" src="https://img.shields.io/badge/Scrapbox-FFF.svg?style=for-the-badge&logo=scrapbox" />
 </a>
 <a href="https://x.com/ruby_engineer" target="_blank">
