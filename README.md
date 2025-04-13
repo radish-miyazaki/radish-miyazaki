@@ -33,9 +33,11 @@
 [![My Favorite Tools](https://skillicons.dev/icons?i=clojure,deno,go,ruby,rust,svelte,ts)](https://skillicons.dev)
 
 ## 📊 Stats
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/0-profile-details.svg)
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/2-most-commit-language.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=radish-miyazaki&theme=tokyonight&locale=ja)](https://git.io/streak-stats)
+
+![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 
 ## 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
