@@ -23,9 +23,8 @@
   <img alt="Blog" src="https://img.shields.io/badge/MY_BLOG-red.svg?&style=for-the-badge&logo=ruby" />
 </a>
 
-## 🛠️ Favorite Tools
-[![My Skills](https://skillicons.dev/icons?i=clojure,go,haskell,ruby,rust)](https://skillicons.dev)
-
+## ❤️ Favorite Tools
+[![My Favorite Tools](https://skillicons.dev/icons?i=clojure,deno,go,ruby,rust,svelte,ts)](https://skillicons.dev)
 
 ## 📊 Stats
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/monokai/0-profile-details.svg)
