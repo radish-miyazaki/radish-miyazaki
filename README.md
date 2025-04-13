@@ -1,4 +1,4 @@
-### Hi! I'm Radish. Web Enginner👋
+### Hi! I'm Radish. Software Enginner👋
 
 ## 💬 Socials
 <a href="https://github.com/radish-miyazaki" target="_blank">
