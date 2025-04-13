@@ -1,6 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-
-<img src="https://github.com/radish-miyazaki/radish-miyazaki/blob/main/Terminal%20Gif%20Maker.gif" alt="introduction" />
+<div>
+  <img align="top" src="https://github.com/radish-miyazaki/radish-miyazaki/blob/main/Terminal%20Gif%20Maker.gif" alt="introduction" height="300" />
+  <img align="top" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" height="300" />
+</div>
 
 ## 🧮 Counter
 <img src="https://count.getloli.com/@radish-miyazaki.github?theme=booru-mjg" alt="visitor count" />
