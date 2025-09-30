@@ -38,6 +38,3 @@
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-
-## 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=radish-miyazaki&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
