@@ -33,6 +33,5 @@
 [![My Favorite Tools](https://skillicons.dev/icons?i=clojure,deno,go,ruby,rust,svelte,ts)](https://skillicons.dev)
 
 ## 📊 Stats
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
