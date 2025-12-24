@@ -35,6 +35,5 @@
 ## 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=radish-miyazaki&theme=tokyonight&locale=ja)](https://git.io/streak-stats)
 
-![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/radish-miyazaki/radish-miyazaki/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
